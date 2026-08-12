@@ -121,7 +121,7 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
 </div>
 
 - [x] **Julio:** Charla informativa obligatoria (Martes 7). 📢
-- [ ] **Agosto:** ¡Inicio oficial del curso! 🏁
+- [x] **Agosto:** ¡Inicio oficial del curso! 🏁
 - [ ] **Septiembre:** Primeros proyectos integradores de maquetación. 💻
 - [ ] **Noviembre:** Entrega del proyecto final y graduación. 🎓
 
