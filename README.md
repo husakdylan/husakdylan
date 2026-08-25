@@ -121,9 +121,9 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
 </div>
 
 - [x] **Julio:** Charla informativa obligatoria (Martes 7). 📢
-- [x] **Agosto:** ¡Inicio oficial del curso! 🏁
-- [ ] **Septiembre:** Primeros proyectos integradores de maquetación. 💻
-- [ ] **Noviembre:** Entrega del proyecto final y graduación. 🎓
+- [x] **Agosto:** ¡Inicio oficial del curso!(Apredizaje en HTML y CSS + Desafios) 🏁
+- [ ] **Septiembre:** Primeros proyectos integradores de maquetación(css frameworks + JS + desafios). 💻
+- [ ] **Noviembre:** Entrega del proyecto final y graduación.(Proyecto) 🎓
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
