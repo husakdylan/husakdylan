@@ -1,41 +1,29 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Dylan Husak</h1>
-  <p>🚀 Futuro Desarrollador Web & Entusiasta de la Inteligencia Artificial</p>
+  <h1>👋 ¡Hola! Soy Dylan Ezequiel Husak</h1>
+  <p>🚀 Estudiante de Desarrollo Web & Entusiasta de la Inteligencia Artificial</p>
   
   <p>
-    <a href="https://www.linkedin.com/in/tu_usuario" target="_blank" style="margin: 0 10px;">
+    <a href="https://www.linkedin.com/in/dylan-ezequiel-husak/" target="_blank" style="margin: 0 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" alt="LinkedIn" />
     </a>
   </p>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+## 📖 Sobre Mí
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">📖 Sobre Mí & El Curso</h2></summary>
-  </ul>
-</div>
+Actualmente me encuentro capacitándome en el **Curso de Programación e Inteligencia Artificial**, dictado por **Plataforma 5** y financiado por la **Fundación Ayudar a Soñar**.
 
-Actualmente me estoy capacitando en el **Curso de Programación e Inteligencia Artificial**, una excelente iniciativa dictada por **Plataforma 5** y financiada por la **Fundación Ayudar a Soñar**. 
-
-Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviembre** para dar mis primeros pasos firmes en el mundo del desarrollo de software.
+Mi objetivo es desarrollar habilidades sólidas en el desarrollo frontend y apoyarme en herramientas de Inteligencia Artificial para acelerar mi aprendizaje y optimizar mi código.
 
 * 🏫 **Institución:** Plataforma 5
 * 💡 **Sponsor:** Fundación Ayudar a Soñar
 * 📅 **Cursada:** Martes y Viernes (17:00 a 19:00 hs)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">🛠️ Tecnologías</h2></summary>
-  </ul>
-</div>
+## 🛠️ Tecnologías Aprendidas & Herramientas
 
 <details>
   <summary><b>📄 HTML5</b></summary>
@@ -46,7 +34,7 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
       </td>
       <td>
-        Aprenderé la estructura web moderna, etiquetas semánticas y buenas prácticas de SEO básico.
+        Estructuración web moderna mediante etiquetas semánticas y buenas prácticas.
       </td>
     </tr>
   </table>
@@ -61,37 +49,7 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
       </td>
       <td>
-        Aprenderé estilos, diseño responsivo (adaptable a celulares) y maquetación web.
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>🧠 JavaScript</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      </td>
-      <td>
-        Aprenderé la lógica de programación, interactividad en las páginas web y manejo de datos.
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>🤖 Inteligencia Artificial</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/14232560/203496092-23c34a2e-5034-4bc6-bf75-0e62057d1952.png" width="50" height="50" alt="IA" />
-      </td>
-      <td>
-        Aprenderé a utilizar herramientas de Inteligencia Artificial aplicadas para optimizar y acelerar mi flujo de desarrollo.
+        Estilos, maquetación y diseño responsivo para adaptar páginas web a pantallas de celulares y escritorio.
       </td>
     </tr>
   </table>
@@ -106,27 +64,39 @@ Mi objetivo es absorber todos los conocimientos posibles entre **Agosto y Noviem
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
       </td>
       <td>
-        Aprenderé control de versiones, cómo subir mis proyectos a internet y trabajar colaborativamente.
+        Control de versiones, gestión de repositorios y subida de proyectos a la web.
       </td>
     </tr>
   </table>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<details>
+  <summary><b>🤖 Gemini (Asistente de Programación)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://user-images.githubusercontent.com/14232560/203496092-23c34a2e-5034-4bc6-bf75-0e62057d1952.png" width="50" height="50" alt="Gemini" />
+      </td>
+      <td>
+        Uso de Gemini como asistente para resolver dudas, depurar errores y mejorar el flujo de desarrollo.
+      </td>
+    </tr>
+  </table>
+</details>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">📈 Mi Camino</h2></summary>
-  </ul>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- [x] Charla informativa obligatoria (Martes 7). 📢
-- [x] **Agosto:** ¡Inicio oficial del curso!(Apredizaje en HTML y CSS + Desafios) 🏁
-- [ ] **Septiembre:** Primeros proyectos integradores de maquetación(css frameworks + JS + desafios). 💻
-- [ ] **Noviembre:** Entrega del proyecto final y graduación.(Proyecto) 🎓
+## 📈 Estado de mi Aprendizaje
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+- [x] **Agosto:** Fundamentos de HTML5 y CSS3 con desafíos de maquetación. 🏁
+- [x] **Git & GitHub:** Manejo de repositorios y control de versiones. 🐙
+- [x] **Asistencia con IA:** Integración de Gemini como apoyo en la resolución de problemas de código. 🤖
+- [ ] **Proyectos e Integraciones:** Desarrollo de sitios web completos y lógica de programación. 💻
+- [ ] **Graduación:** Entrega del proyecto final. 🎓
+
+<br>
 
 <div align="center">
-  <sub>Organizado y respaldado por <b>Fundación Ayudar a Soñar</b> & <b>Plataforma 5</b> ✨</sub>
+  <sub>Organizado por <b>Fundación Ayudar a Soñar</b> & <b>Plataforma 5</b> ✨</sub>
 </div>
