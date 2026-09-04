@@ -19,7 +19,6 @@ Mi objetivo es desarrollar habilidades sólidas en el desarrollo frontend y apoy
 
 * 🏫 **Institución:** Plataforma 5
 * 💡 **Sponsor:** Fundación Ayudar a Soñar
-* 📅 **Cursada:** Martes y Viernes (17:00 a 19:00 hs)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
